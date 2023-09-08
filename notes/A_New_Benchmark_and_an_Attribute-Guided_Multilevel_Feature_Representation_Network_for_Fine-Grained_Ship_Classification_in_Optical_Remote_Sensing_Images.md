@@ -4,7 +4,7 @@
 
 # keywords
 
-hierarchical label, tree structure, CPCC score, 
+hierarchical label, tree structure, cophenetic correlation coefficient(CPCC) score, 
 
 # Background
 
