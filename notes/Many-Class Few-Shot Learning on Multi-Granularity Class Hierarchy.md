@@ -12,7 +12,7 @@ meta learning, hierarchical label, attention, memory mechanism, few- shot learni
 
 # Method
 
-![[Pasted image 20230910230056.png]]
+![[Many-Class Few-Shot Learning on Multi-Granularity Class Hierarchy.png]]
 
 ## 分层标签的使用
 
